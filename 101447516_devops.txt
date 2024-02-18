@@ -1,1 +1,1 @@
-
+The course is titled "DevOps For System Administration" and is related to working with AWS Cloud EC2 Ubuntu instances. It is intended for individuals who want to take their skills beyond just coding and focuses on the tools and practices software developers use to automate and integrate software development and IT operations.The course involves hands-on learning, including tasks such as provisioning a specific development environment, automation, improving application performance, and managing containers in the cloud.
