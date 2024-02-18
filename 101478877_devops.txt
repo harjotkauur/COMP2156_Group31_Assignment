@@ -1,1 +1,2 @@
-
+Power BI is a Microsoft collection of tools and an analytics service for data visualization and business intelligence reporting. 
+ BCIT Computing offers a series of MS Power Bi courses. COMP 2156 is a hands-on intro course designed for database professionals, data analysts, business analysts and managers.
